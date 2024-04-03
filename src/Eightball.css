@@ -1,0 +1,21 @@
+.Eightball-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Eightball {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.Eightball-reset {
+    position: relative;
+    top: 30px;
+}
